@@ -1,5 +1,5 @@
 # Social-Media-Stocks-Visualization
-Visualization of the daily closing stock value of 5 social media platforms: Facebook, Snapchat, Pinterest, ETSY, and Twitter. 
+Visualization of the daily closing stock value of 5 social media platforms( Facebook, Snapchat, Pinterest, ETSY, and Twitter) using R's ggplot2 and Plotly
 
 
 Citation of Dataset: 
